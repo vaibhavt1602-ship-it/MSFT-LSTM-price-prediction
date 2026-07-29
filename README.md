@@ -38,8 +38,8 @@ python msft_lstm_improved.py
 
 ## Results
 
-*(Fill in after running: e.g. "LSTM achieved X% directional accuracy on the test set vs. Y% for the naive baseline, with test RMSE of $Z.")*
-
+ "LSTM achieved 44.8% directional accuracy on the test set vs. 0.0% for the naive baseline, with test RMSE of 
+12.366
 ## Possible Extensions
 
 - Predict returns instead of price levels
